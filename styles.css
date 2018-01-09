@@ -1,0 +1,34 @@
+* { 
+	padding:0;
+	margin:0;
+	-webkit-box-sizing: border-box ;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+
+
+}
+
+body {
+	background:url(grande.jpg);
+	background-repeat:no-repeat;
+	background-size: cover ;
+	background position:0,0; 
+	background-attachment:fixed;
+	font-family: helvetica, arial, sans-serif;
+	line-height:20px;
+
+}
+
+.contenedor{
+	width:90%;
+	max-width=900px;
+	margin:auto;
+
+}
+
+.article{
+	backgound:rgba(24 8 33 9 );
+	padding: 20px;
+	margin: 20px 0px;
+	color: #FFF;
+}
